@@ -27,9 +27,9 @@ li {
 	list-style: none;
 }
 
-#powr-contact-form {
-        height: 400px;  
+#powr-contact-form {  
         width: 250px;
+        height: 100%;
         position: relative; 
-        top: -50px;
+        top: -150px;
        }
