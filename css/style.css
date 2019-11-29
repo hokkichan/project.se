@@ -10,8 +10,11 @@ body {
 
 .col-lg-5 {
 	background-color: rgba(0, 47, 108, 0.6);
+	border-radius: 15px;
 }
 
+
+
 .text{
-	height:100vh;
+	height:70vh;
 }

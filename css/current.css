@@ -1,0 +1,20 @@
+body{
+	color: white;
+}
+
+h3, p {
+	color: grey;
+}
+
+
+#banner {
+	background-image: url("../images/inarismall.jpg") /*copyright free image*/;
+	background-position: center center;
+	background-size: cover;
+	height: 250px;
+	margin-top: 2.5rem;
+}
+.title{
+	color: #FA8072;
+	font-weight: bold;
+}
