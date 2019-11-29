@@ -29,5 +29,7 @@ li {
 
 #powr-contact-form {
         height: 400px;  
-        width: 250px; 
+        width: 250px;
+        position: flex; 
+        float: right;
        }
