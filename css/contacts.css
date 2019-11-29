@@ -1,0 +1,28 @@
+body{
+	color: white;
+}
+
+h3, p, li, h5 {
+	color: grey;
+}
+
+p {
+	font-style: italic;
+	font-size: 110%;
+}
+
+#banner {
+	background-image: url("../images/inarismall.jpg") /*copyright free image*/;
+	background-position: center center;
+	background-size: cover;
+	height: 200px;
+	margin-top: 2.5rem;
+}
+.title{
+	color: rgba(0, 47, 108);
+	font-weight: bold;
+}
+
+li {
+	list-style: none;
+}
