@@ -30,6 +30,5 @@ li {
 #powr-contact-form {  
         width: 250px;
         height: 100%;
-        position: relative; 
-        top: -250px;
+        position: top;
        }
