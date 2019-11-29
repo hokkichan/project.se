@@ -1,9 +1,17 @@
 body {
 	font-family: 'Roboto', sans-serif;
 	color: blue;
-	background-image: url("../images/home.jpg");
+	background-image: url("../images/home.jpg") /*copyright free image*/;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: center center;
 	background-size: cover;
+}
+
+.col-lg-5 {
+	background-color: rgba(0, 47, 108, 0.6);
+}
+
+.text{
+	height:100vh;
 }
