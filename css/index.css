@@ -8,6 +8,14 @@ body {
 	background-size: cover;
 }
 
+footer {
+	color: rgb(42,42,42);
+	text-align: center;
+	margin-top: 1.5em;
+	margin-left: auto;
+    margin-right: auto;
+}
+
 .col-lg-5 {
 	background-color: rgba(0, 47, 108, 0.6);
 	border-radius: 15px;

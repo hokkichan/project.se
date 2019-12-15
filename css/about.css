@@ -1,3 +1,7 @@
+li.blue {
+	color: blue;
+}
+
 h3, p, li, h5 {
 	color: grey;
 }
@@ -18,3 +22,16 @@ p {
 	color: rgba(0, 47, 108);
 	font-weight: bold;
 }
+
+li {
+	list-style: none;
+}
+
+.col-lg {  
+        width: 250px;
+        height: 100%;
+        position:relative;
+        top: -200px;
+        left: -200px;
+        z-index: -1;
+       }
