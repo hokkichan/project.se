@@ -11,16 +11,22 @@ body {
 footer {
 	color: white;
 	text-align: center;
-	margin-top: -10em;
 	margin-left: auto;
     margin-right: auto;
+    margin-top: 2em;
 }
 
 .col-lg-5 {
 	background-color: rgba(0, 47, 108, 0.6);
 	border-radius: 15px;
+	margin-top: 8em;
 }
 
 .text{
 	height:70vh;
+}
+
+.row {
+    margin-left: 0px;
+    margin-right: 0px;
 }
