@@ -12,7 +12,7 @@ p {
 }
 
 #banner {
-	background-image: url("../images/inarismall.jpg") /*copyright free image*/;
+	background-image: url("../images/inarismall.jpg") /*copyright free image, available at pixabay.com*/;
 	background-position: center center;
 	background-size: cover;
 	height: 200px;

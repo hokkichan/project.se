@@ -8,7 +8,7 @@ p {
 }
 
 #banner {
-	background-image: url("../images/lake.jpg") /*copyright free image*/;
+	background-image: url("../images/lake.jpg") /*copyright free image, image courtesy @ Stux available at pixabay.com*/;
 	background-position: center center;
 	background-size: cover;
 	height: 200px;
