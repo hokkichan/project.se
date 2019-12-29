@@ -9,7 +9,7 @@ p {
 
 #banner {
 	background-image: url("../images/lake.jpg") /*copyright free image, image courtesy @ Stux available at pixabay.com*/;
-	background-position: center center;
+	background-position: center;
 	background-attachment: fixed;
 	background-size: cover;
 	height: 200px;
